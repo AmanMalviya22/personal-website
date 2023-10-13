@@ -1,6 +1,6 @@
 {
-  
-  "name": "personal website",
+  "homepage": "https://AmanMalviya22.github.io/developerfolio",
+  "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
